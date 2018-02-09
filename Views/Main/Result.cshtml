@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dojo-Survey!</title>
+</head>
+
+<body>
+
+    <div class="result1">
+        <h4>Thanks for submitting this form!You have submitted this form @ViewBag.count times now!</h4>
+        <p>Name:
+            @ViewBag.name
+        </p>
+        <p>Location:
+            @ViewBag.location
+
+        </p>
+        <p>Language:
+            @ViewBag.language
+
+        </p>
+        <p>Comment:
+            @ViewBag.comment
+
+        </p>
+
+        <form action="/">
+            <input id="button" type="submit" value="Go Back!">
+        </form>
+    </div>
+</body>
+
+</html>
+<style>
+    p {
+        color: blue;
+    }
+    
+    .result1 {
+        border: 1px solid black;
+        height: 400px;
+        width: 400px;
+        margin: 50px auto;
+        text-align: left;
+    }
+    
+    .th1 {
+        text-align: left;
+        width: 50%;
+    }
+    
+    h4 {
+        margin-left: 20px;
+        text-decoration: underline;
+    }
+    
+    #button {
+        display: inline-block;
+        margin-left: 20px;
+        background-color: lightblue;
+        box-shadow: 2px 1px 1px grey;
+    }
+    
+    p {
+        margin-left: 20px;
+    }
+</style>

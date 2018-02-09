@@ -1,0 +1,10 @@
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojoSurvey/bin/Debug/netcoreapp2.0/dojoSurvey.deps.json
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojoSurvey/bin/Debug/netcoreapp2.0/dojoSurvey.runtimeconfig.json
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojoSurvey/bin/Debug/netcoreapp2.0/dojoSurvey.runtimeconfig.dev.json
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojoSurvey/bin/Debug/netcoreapp2.0/dojoSurvey.dll
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojoSurvey/bin/Debug/netcoreapp2.0/dojoSurvey.pdb
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojoSurvey/obj/Debug/netcoreapp2.0/dojoSurvey.csproj.CoreCompileInputs.cache
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojoSurvey/obj/Debug/netcoreapp2.0/dojoSurvey.AssemblyInfoInputs.cache
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojoSurvey/obj/Debug/netcoreapp2.0/dojoSurvey.AssemblyInfo.cs
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojoSurvey/obj/Debug/netcoreapp2.0/dojoSurvey.dll
+/Users/mishanea/Documents/Coding_Dojo/c#_stack/C#_net.Core/dojoSurvey/obj/Debug/netcoreapp2.0/dojoSurvey.pdb
